@@ -1,3 +1,4 @@
+import About from "./About";
 import Header from "./Header";
 import Introduction from "./Introduction";
 
@@ -6,6 +7,7 @@ const App = () => {
     <>
       <Header />
       <Introduction />
+      <About />
     </>
   );
 };
