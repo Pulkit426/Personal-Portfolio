@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="pr-10">
         <ul className="flex flex-row gap-6">
           <li> Home </li>
-          <li> About  </li>
+          <li> About </li>
           <li> Skills </li>
           <li> Project </li>
           <li> Experience </li>

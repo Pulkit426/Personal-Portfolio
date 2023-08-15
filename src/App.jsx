@@ -1,12 +1,13 @@
-import Header from "./Header"
+import Header from "./Header";
+import Introduction from "./Introduction";
 
 const App = () => {
-
   return (
     <>
-    <Header />
+      <Header />
+      <Introduction />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
