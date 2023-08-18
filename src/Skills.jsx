@@ -12,6 +12,7 @@ const Skills = () => {
 
      <img src="src\assets\htmllogo.png" className="w-24 h-24 p-2"  /> 
      <img src="src\assets\csslogo.png" className="w-24 h-24 p-2"  /> 
+     <img src="src\assets\reactlogo.png" className="w-24 h-24 p-2"  /> 
 
      <img src="src\assets\reduxlogo.png" className="w-24 h-24 p-2"  /> 
      <img src="src\assets\tailwindcsslogo.png" className="w-24 h-24 p-2"  />
@@ -37,6 +38,13 @@ const Skills = () => {
      <img src="src\assets\cypress.png" className="w-24 h-24 p-2 bg-slate-300"  /> 
      </div>
 
+<div>
+  DEVOPS
+  <img src="src\assets\gitlogo.png" className="w-24 h-24 p-2"  /> 
+  <img src="src\assets\githublogo.png" className="w-24 h-24 p-2"  /> 
+  <img src="src\assets\heroku.png" className="w-24 h-24 p-2"  /> 
+
+</div>
 
      </div>
     </div>
