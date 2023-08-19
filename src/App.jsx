@@ -1,4 +1,5 @@
 import About from "./About";
+import Experience from "./Experience";
 import Header from "./Header";
 import Introduction from "./Introduction";
 import Projects from "./Projects";
@@ -12,6 +13,7 @@ const App = () => {
       <About />
       <Skills />
       <Projects />
+      <Experience />
     </>
   );
 };
