@@ -28,8 +28,9 @@ const Skills = () => {
             BACKEND{" "}
           </h1>
           <div className="flex flex-row flex-wrap justify-center m-2 p-2">
-            <img src="src\assets\expresslogo.png" className="w-320 h-12 p-2" />
             <img src="src\assets\nodelogo.png" className="w-24 h-24 p-2" />
+            <img src="src\assets\mongodb.png" className="w-24 h-24 p-2" />
+            <img src="src\assets\expresslogo.png" className="w-48 h-16 p-2" />
           </div>
         </div>
 
