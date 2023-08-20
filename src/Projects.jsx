@@ -5,7 +5,7 @@ const Projects = () => {
 
       <div className="flex pt-10 m-2 justify-center">
         <img
-          src="public\assets\terrapost.png"
+          src="\assets\terrapost.png"
           className="w-96 h-60 m-2 border rounded-lg"
         />
 
@@ -42,7 +42,7 @@ const Projects = () => {
 
       <div className="flex flex-row-reverse pt-10 m-2 justify-center">
         <img
-          src="public\assets\chromachat.png"
+          src="/assets/chromachat.png"
           className="w-96 h-60 m-2 border rounded-lg"
         />
 

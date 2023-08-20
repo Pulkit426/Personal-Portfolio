@@ -11,12 +11,12 @@ const Skills = () => {
           </h1>
 
           <div className="flex flex-row flex-wrap justify-center">
-            <img src="public\assets\htmllogo.png" className="w-24 max-h-24 p-2" />
-            <img src="public\assets\csslogo.png" className="w-24 max-h-24 p-2" />
-            <img src="public\assets\reactlogo.png" className="w-24 max-h-24 p-2" />
-            <img src="public\assets\reduxlogo.png" className="w-24 max-h-24 p-2" />
+            <img src="\assets\htmllogo.png" className="w-24 max-h-24 p-2" />
+            <img src="\assets\csslogo.png" className="w-24 max-h-24 p-2" />
+            <img src="\assets\reactlogo.png" className="w-24 max-h-24 p-2" />
+            <img src="\assets\reduxlogo.png" className="w-24 max-h-24 p-2" />
             <img
-              src="public\assets\tailwindcsslogo.png"
+              src="\assets\tailwindcsslogo.png"
               className="w-24 max-h-24 p-2"
             />
           </div>
@@ -28,9 +28,9 @@ const Skills = () => {
             BACKEND{" "}
           </h1>
           <div className="flex flex-row flex-wrap justify-center m-2 p-2">
-            <img src="public\assets\nodelogo.png" className="w-24 h-24 p-2" />
-            <img src="public\assets\mongodb.png" className="w-24 h-24 p-2" />
-            <img src="public\assets\expresslogo.png" className="w-48 h-16 p-2" />
+            <img src="\assets\nodelogo.png" className="w-24 h-24 p-2" />
+            <img src="\assets\mongodb.png" className="w-24 h-24 p-2" />
+            <img src="\assets\expresslogo.png" className="w-48 h-16 p-2" />
           </div>
         </div>
 
@@ -40,8 +40,8 @@ const Skills = () => {
             LANGUAGES{" "}
           </h1>
           <div className="flex flex-row flex-wrap justify-center m-4 p-4">
-            <img src="public\assets\c++.png" className="w-24 h-24 p-2" />
-            <img src="public\assets\jslogo.png" className="w-24 h-24 p-2" />
+            <img src="\assets\c++.png" className="w-24 h-24 p-2" />
+            <img src="\assets\jslogo.png" className="w-24 h-24 p-2" />
           </div>
         </div>
 
@@ -52,13 +52,13 @@ const Skills = () => {
           </h1>
 
           <div className="flex flex-row flex-wrap justify-center p-3 m-3">
-            <img src="public\assets\jest.png" className="w-24 h-24 p-2" />
+            <img src="\assets\jest.png" className="w-24 h-24 p-2" />
             <img
-              src="public\assets\react-testing-library.png"
+              src="\assets\react-testing-library.png"
               className="w-24 h-24 p-2"
             />
             <img
-              src="public\assets\cypress.png"
+              src="\assets\cypress.png"
               className="w-20 h-20 p-2 bg-slate-300"
             />
           </div>
@@ -71,9 +71,9 @@ const Skills = () => {
           </h1>
 
           <div className="flex flex-row flex-wrap justify-center p-2 m-2">
-            <img src="public\assets\gitlogo.png" className="w-24 h-24 p-2" />
-            <img src="public\assets\githublogo.png" className="w-24 h-24 p-2" />
-            <img src="public\assets\heroku.png" className="w-24 h-24 p-2" />
+            <img src="\assets\gitlogo.png" className="w-24 h-24 p-2" />
+            <img src="\assets\githublogo.png" className="w-24 h-24 p-2" />
+            <img src="\assets\heroku.png" className="w-24 h-24 p-2" />
           </div>
         </div>
       </div>
