@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <div>
-      <h1 className="text-3xl font-bold text-center pt-10 m-2"> Projects </h1>
+      <h1 className="text-3xl font-bold text-center pt-10 m-2 mt-10"> Projects </h1>
 
       <div className="flex pt-10 m-2 justify-center">
         <img

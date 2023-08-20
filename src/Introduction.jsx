@@ -9,8 +9,8 @@ import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
 
 const Introduction = () => {
   return (
-    <div className="text-center pt-32">
-      <h1 className="text-5xl pb-6 "> Hi 👋 I am Pulkit Agrawal</h1>
+    <div className="text-center pt-32" >
+      <h1 className="text-5xl pb-6 "> Hi 👋 I am <span className="text-[#4B0082]">Pulkit Agrawal </span></h1>
       <p>
         Frontend Web Developer with 1+ year of Experience!! I love to build cool
         stuff !!
