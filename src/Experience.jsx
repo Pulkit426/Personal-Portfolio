@@ -1,7 +1,7 @@
 const Experience = () => {
   return (
     <div id="experience">
-      <h1 className="text-3xl font-bold text-center pt-10 m-2 ">
+      <h1 className="text-3xl font-bold text-center pt-16 m-2 ">
         Experience
       </h1>
 

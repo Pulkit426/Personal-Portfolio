@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="h-20 flex justify-between px-2 py-6 shadow-lg bg-[#c084fc]">
+    <div className="h-20 flex justify-between px-2 py-6 shadow-lg bg-[#c084fc] fixed w-full top-0">
       <h1> Pulkit Agrawal </h1>
 
       <nav className="pr-10">
