@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 const About = () => {
   return (
-    <div className="m-2 mt-10 p-2 pt-10">
+    <div id="about" className="m-2 mt-10 p-2 pt-10">
       <h1 className="text-3xl font-bold text-center m-2 p-2 pb-10"> About Me </h1>
       <p className="p-2 m-2 pb-0 mb-0">
         Hey there, I'm Pulkit Agrawal—a dedicated full stack developer who
