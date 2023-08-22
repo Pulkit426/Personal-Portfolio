@@ -76,6 +76,43 @@ const Projects = () => {
           </a>
         </div>
       </div>
+
+      <div className="flex pt-10 m-2 justify-center">
+        <img
+          src="\assets\yt-clone.png"
+          className="w-96 h-60 m-2 border rounded-lg"
+        />
+
+        <div className="m-2 p-2">
+          <h1 className="pt-4 pl-10 text-xl font-bold">Youtube Clone</h1>
+          <p className="pt-4 pl-10 w-[600px]">
+          A feature rich Youtube clone built using React, Redux and Tailwind CSS.
+          Incorporated real-time search suggestions, nested comments, and live chat simulation with API polling.
+          Created shimmer effects for smooth loading transitions. Utilized Redux for responsive UI and efficient state management, while React Router
+          facilitated seamless navigation. Optimized search suggestions using Debouncing and Caching.
+          </p>
+
+          <a
+            href="https://github.com/Pulkit426/Youtube-clone"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="p-2 ml-10 mt-10 border border-purple-400 rounded-lg hover:text-white hover:bg-purple-400">
+              Github Repo
+            </button>
+          </a>
+
+          <a
+            href="https://yt-videotube.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="p-2 m-2 border border-black rounded-lg bg-purple-400 text-white hover:text-purple-400 hover:bg-white">
+              Live Demo
+            </button>
+          </a>
+        </div>
+      </div>
     </div>
   );
 };
