@@ -9,7 +9,7 @@ import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
 
 const Introduction = () => {
   return (
-    <div className="text-center pt-32" >
+    <div className="text-center pt-48" >
       <h1 className="text-5xl pb-6 "> Hi 👋 I am <span className="text-[#4B0082]">Pulkit Agrawal </span></h1>
       <p>
         Full Stack Web Developer with 1+ year of Experience!! I love to build cool
