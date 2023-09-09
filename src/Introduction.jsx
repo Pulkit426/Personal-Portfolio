@@ -1,11 +1,9 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import {
   faTwitter,
   faLinkedin,
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
-import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
 
 const Introduction = () => {
   return (
@@ -24,8 +22,11 @@ const Introduction = () => {
         </a>
       </button>
       <div>
+
+        <h1 className="py-2 my-2 text-lg"> Connect with me  </h1>
         <a
           href="https://www.github.com/Pulkit426"
+          className="p-1 m-1 text-brown-800"
           target="_blank"
           rel="noreferrer"
         >
@@ -34,7 +35,7 @@ const Introduction = () => {
 
         <a
           href="https://www.twitter.com/Pulkit426"
-          className="p-1 m-1"
+          className="p-1 m-1 text-blue-500"
           target="_blank"
           rel="noreferrer"
         >
@@ -42,24 +43,13 @@ const Introduction = () => {
         </a>
         <a
           href="https://www.linkedin.com/in/pulkit426"
-          className="p-1 m-1"
+          className="p-1 m-1 text-blue-800"
           target="_blank"
           rel="noreferrer"
         >
           <FontAwesomeIcon icon={faLinkedin} size="xl" />
         </a>
-
-        <a href="mailto:agrawalpulkit12@gmail.com" className="p-1 m-1">
-          <FontAwesomeIcon icon={faEnvelope} size="xl" />
-        </a>
-        <a
-          href="https://drive.google.com/file/d/1cRwmMPTJBee8DIJUOqMnzJ-RB2foZfVY/view?usp=sharing"
-          className="p-1 m-1"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <FontAwesomeIcon icon={faFileAlt} size="xl" />
-        </a>
+  
       </div>
     </div>
   );
