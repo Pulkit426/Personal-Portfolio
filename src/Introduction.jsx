@@ -15,8 +15,13 @@ const Introduction = () => {
         Full Stack Web Developer with 1+ year of Experience!! I love to build cool
         stuff !!
       </p>
-      <button className="p-2 m-4 w-40 border border-purple-400 rounded-lg hover:bg-purple-400">
-        View Resume
+      <button className="p-2 m-4 w-40 border rounded-3xl text-white hover:scale-105" style={{background: "linear-gradient(89deg, rgb(154, 92, 255) 0%, rgb(79, 107, 216) 100%)"}}>
+      <a
+          href="https://drive.google.com/file/d/1Hd5i28MFwQATjjgoiU1cTpzmfRfnhurt/view"
+          target="_blank"
+          rel="noreferrer"
+        > View Resume
+        </a>
       </button>
       <div>
         <a
