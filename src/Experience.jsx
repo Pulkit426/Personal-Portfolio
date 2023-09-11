@@ -1,11 +1,11 @@
 const Experience = () => {
   return (
-    <div id="experience">
+    <div id="experience" className="flex flex-col  justify-center items-center">
       <h1 className="text-3xl font-bold text-center pt-16 m-2 ">
         Experience
       </h1>
 
-      <div className="p-2 m-2 pl-6 ml-6 mt-10 border-l-2 border-blue-500">
+      <div className="p-2 m-2 pl-6 ml-6 mt-10 border-l-2 border-blue-500" >
         <h1 className="text-xl font-bold">Software Engineer </h1>
         <h2 className="font-bold"> Infosys </h2>
         <h3 className="font-light italic">June, 2021 - Present </h3>
